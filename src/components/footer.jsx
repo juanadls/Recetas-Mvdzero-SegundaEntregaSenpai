@@ -10,10 +10,10 @@ function FooterRecetas () {
 
      <div class="box">
 
-    <TitleHfour> Sobre Nosotros</TitleHfour>
+    <TitleHfour> About Us</TitleHfour>
 
-    <FooterText>Lorem ipsum dolor sit amet consectetur !</FooterText>
-    <FooterText>Lorem ipsum dolor sit amet consectetur!</FooterText>
+    <FooterText>Lorem ipsum dolor sit amet consectetur</FooterText>
+
 
   </div>
 
