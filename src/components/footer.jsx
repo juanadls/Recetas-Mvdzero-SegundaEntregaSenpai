@@ -10,10 +10,10 @@ function FooterRecetas () {
 
      <div class="box">
 
-    <TitleHfour> Sobre Nosotros</TitleHfour>
+    <TitleHfour> About Us</TitleHfour>
 
-    <FooterText>Lorem ipsum dolor sit amet consectetur !</FooterText>
-    <FooterText>Lorem ipsum dolor sit amet consectetur!</FooterText>
+    <FooterText>Lorem ipsum dolor sit amet consectetur</FooterText>
+
 
   </div>
 
@@ -24,6 +24,7 @@ function FooterRecetas () {
     <div class="red-social">
 
       <SocialMediaAnchor> Facebook </SocialMediaAnchor>
+      
       <SocialMediaAnchor> Instagram </SocialMediaAnchor>
     </div>
     </div>

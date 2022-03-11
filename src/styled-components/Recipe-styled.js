@@ -1,10 +1,12 @@
 import styled from "styled-components";
 
 export const RecipeImage = styled.img`
-border-radius: 50%;
-width: 100px;
-height: 100px;
+width: 50%;
+height: 50%;
+padding: 10px;
 `;
+
+
 
 export const RecipesDiv = styled.div`
 border-radius: 10px;

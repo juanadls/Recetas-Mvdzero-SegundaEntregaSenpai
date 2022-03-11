@@ -2,14 +2,11 @@ import React from "react";
 import { RecipeImage, RecipesDiv } from "../styled-components/Recipe-styled";
 
 
-const Recipe = ({title, calories, image, ingredients}) => {
+const Recipe = ({title, image, ingredients}) => {
     return (
     
         <RecipesDiv>
             <h1 >{title}</h1>
-            
-            <p> Calories: {calories}</p>
-            
             <ul>
                 {ingredients.map(ingredients =>(
                     <li>{ingredients.text}</li>

@@ -13,7 +13,7 @@
 
 .search-bar {
   width: 25%;
-  border: none;
+  border-color: gray;
   padding: 10px;
 }
 
@@ -29,5 +29,6 @@
   display: flex;
   justify-content: space-around;
   flex-wrap: wrap;
+  padding: 5px;
 
 }

@@ -13,7 +13,7 @@ const APP_KEY = "1740dd117fe23d41d8d372cf4b3d3c33";
 
 const [recipes, setRecipes] = useState([]);
 const [search, setSearch] = useState("");
-const [query, setQuery] = useState("cake");
+const [query, setQuery] = useState("lentils");
 
 useEffect(()=>{
   getRecipes();
@@ -43,7 +43,7 @@ useEffect(()=>{
 
       <form  onSubmit={getSearch} className='search-form'>
         <input className='search-bar' type="text" value={search} onChange={updateSearch}/>
-        <button className='search-button' type='submit'>Search</button>
+        <button className='search-button' type='submit'>Buscar</button>
       </form>
 
       <div className='recipes'>
@@ -52,7 +52,6 @@ useEffect(()=>{
         <Recipe 
         key={recipe.recipe.label}
         title={recipe.recipe.label} 
-        calories={recipe.recipe.calories}
         image={recipe.recipe.image}
         ingredients={recipe.recipe.ingredients}/>
       ))}

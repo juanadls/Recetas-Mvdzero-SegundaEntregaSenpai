@@ -1,7 +1,7 @@
 import styled from "styled-components";
 
 export const TitleHfour = styled.h4`
-font-size: 15px;
+font-size: 20px;
 font-family:Georgia, 'Times New Roman', Times, serif;
 color: rgb(16, 150, 105);
 `;
@@ -52,6 +52,7 @@ display: inline-block;
 text-decoration: none;
 color:rgb(221, 234, 236);
 text-align: center;
+padding: 8px;
 `;
 
 
