@@ -24,6 +24,7 @@ function FooterRecetas () {
     <div class="red-social">
 
       <SocialMediaAnchor> Facebook </SocialMediaAnchor>
+      
       <SocialMediaAnchor> Instagram </SocialMediaAnchor>
     </div>
     </div>

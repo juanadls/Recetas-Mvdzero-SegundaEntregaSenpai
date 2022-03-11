@@ -52,7 +52,7 @@ display: inline-block;
 text-decoration: none;
 color:rgb(221, 234, 236);
 text-align: center;
-padding: 10px;
+padding: 8px;
 `;
 
 
