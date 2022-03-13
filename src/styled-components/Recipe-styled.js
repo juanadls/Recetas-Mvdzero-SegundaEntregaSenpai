@@ -1,22 +1,27 @@
 import styled from "styled-components";
 
 export const RecipeImage = styled.img`
-width: 50%;
-height: 50%;
+width: 30%;
+height: 30%;
 padding: 10px;
+margin: 10px;
+`;
+
+export const RecipeImageHover = styled.img`
+transforn: scale(1.15);
 `;
 
 
 
 export const RecipesDiv = styled.div`
-border-radius: 10px;
-box-shadow: 0px 5px 20px rgb(71, 71, 71);
+border-radius: 110px;
 margin: 20px;
 display: flex;
 flex-direction: column;
 justify-content: space-around;
-background: white;
+background-image: linear-gradient(135deg, #fdfcfb 0%, #e2d1c3 100%);
 align-items: center;
-min-width: 40%;
+width: 40%;
+padding: 10px;
 `;
 
