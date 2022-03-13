@@ -33,7 +33,7 @@ function FooterRecetas () {
 
 <GroupTwo>
 
-  <GroupTwoSmall>&copy; 2021 <b> MV Zero</b> - Todos los derechos reservados.</GroupTwoSmall>
+  <GroupTwoSmall>&copy; 2022 <b> MV Zero</b> - Todos los derechos reservados.</GroupTwoSmall>
 
 </GroupTwo>
 
