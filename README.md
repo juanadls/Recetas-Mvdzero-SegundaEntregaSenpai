@@ -1,6 +1,6 @@
 # Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project was inteded for Senpai Academy. This proyect is focused in using React.
 
 ## Available Scripts
 
