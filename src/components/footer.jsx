@@ -12,7 +12,7 @@ function FooterRecetas () {
 
     <TitleHfour> About Us</TitleHfour>
 
-    <FooterText>Lorem ipsum dolor sit amet consectetur</FooterText>
+    <FooterText>Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet.</FooterText>
 
 
   </div>
@@ -27,7 +27,8 @@ function FooterRecetas () {
       
       <SocialMediaAnchor> Instagram </SocialMediaAnchor>
     </div>
-    </div>
+
+  </div>
     </GroupOne>
 
 <GroupTwo>
@@ -40,6 +41,7 @@ function FooterRecetas () {
 
 </div>
 )
+
 }
 
 export default FooterRecetas;

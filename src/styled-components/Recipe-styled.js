@@ -14,7 +14,7 @@ transforn: scale(1.15);
 
 
 export const RecipesDiv = styled.div`
-border-radius: 125px;
+border-radius: 110px;
 margin: 20px;
 display: flex;
 flex-direction: column;
@@ -23,6 +23,5 @@ background-image: linear-gradient(135deg, #fdfcfb 0%, #e2d1c3 100%);
 align-items: center;
 width: 40%;
 padding: 10px;
-letter-spacing: 0.5px;
 `;
 

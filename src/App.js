@@ -13,7 +13,7 @@ const APP_KEY = "1740dd117fe23d41d8d372cf4b3d3c33";
 
 const [recipes, setRecipes] = useState([]);
 const [search, setSearch] = useState("");
-const [query, setQuery] = useState("lentils");
+const [query, setQuery] = useState("");
 
 useEffect(()=>{
   getRecipes();
